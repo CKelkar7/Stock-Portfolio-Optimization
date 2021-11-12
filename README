@@ -1,0 +1,19 @@
+In this notebook, I will optimize a portfolio consisting of 10 stocks over a 4-year period from January 2017 through December 2020. The stocks of interest and their respective industries are listed below:
+
+    Pharmaceuticals:
+        1) Pfizer
+        2) Amgen
+        3) Moderna
+    
+    Oil & Gas:
+        4) Exxon
+        5) Shell
+        6) Chevron
+        
+    Technology:
+        7) Google
+        8) Meta
+        9) Microsoft
+        10) Lyft
+      
+I will plot efficient frontier and calculate Sharpe ratio to identify the optimal portfolio.
